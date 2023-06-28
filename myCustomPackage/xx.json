@@ -1,0 +1,7 @@
+{
+    "name":"greet-sangayevolution",
+    "vesion":"1.0.0",
+    "description": "Sangay-evolution greeting package",
+    "keywords": ["sangay","evolution"],
+    "main": "index.js"
+}
